@@ -1,0 +1,7 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 25, 2021 - 15:32:37
+Django version 3.2.4, using settings 'SocialNetworkBook.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
